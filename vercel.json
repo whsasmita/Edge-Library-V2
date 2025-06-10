@@ -26,9 +26,9 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
-        "DB_HOST": "n5ckr.h.filess.io",
+        "DB_HOST": "vhtl5.h.filess.io",
         "DB_PORT": "3307",
-        "DB_DATABASE": "db100BrezzeBlade",
-        "DB_USERNAME": "db100BrezzeBlade"
+        "DB_DATABASE": "db100breezeblade",
+        "DB_USERNAME": "db100breezeblade"
     }
 }
